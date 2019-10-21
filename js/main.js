@@ -23,17 +23,7 @@ $(function () {
         // 投稿者のコメントの表示
         const IS_SHOW_NAME = false;
 
-        /************************************************/
-        /* 情報欄(コメントの右側)に表示させる情報のパターン */
-        //サービス名(YoubueLiveやOPENRECやTwitch)
-        const INFO_SERVICE_NAME = 0;
-        //コメント番号(MCVで付与したもの)
-        const INFO_INDEX = 1;
-        //配信名(MCVで名前を付けたもの)
-        const INFO_STREAM_NAME = 2;
-        //表示させたい情報を上記から選ぶ
-        const SHOW_INFO = INFO_SERVICE_NAME;
-        /************************************************/
+
 
         /******************************************/
         // 時間情報のDataKey
