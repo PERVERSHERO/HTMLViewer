@@ -35,7 +35,7 @@
     position: absolute;
     bottom: 0;
     /* 透過率(0～1.0) */
-    opacity: 0;
+    opacity: 0.4;
     /* 右からの位置 */
     right: 4%;
 }
